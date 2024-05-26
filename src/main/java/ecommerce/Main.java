@@ -12,6 +12,21 @@ public class Main {
         System.out.println("Numbers: " +  num);
         System.out.println("Special Charactors: " +  SplCh);
 
+        System.out.println("abcdef");
+
+        System.out.println("abcdef");
+        System.out.println("abcdef");
+
+        System.out.println("abcdef");
+
+        System.out.println("abcdef");
+        System.out.println("abcdef");
+        System.out.println("abcdef");
+        System.out.println("abcdef");
+        System.out.println("abcdef");
+        System.out.println("abcdef");
+        System.out.println("abcdef");
+
 
     }
 }
