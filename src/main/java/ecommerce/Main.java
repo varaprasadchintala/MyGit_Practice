@@ -26,6 +26,14 @@ public class Main {
         System.out.println("abcdef");
         System.out.println("abcdef");
         System.out.println("abcdef");
+        System.out.println("abcdef");
+        System.out.println("abcdef");
+
+System.out.println("abcdef");
+        System.out.println("abcdef");
+        System.out.println("abcdef");
+        System.out.println("abcdef");
+
 
 
     }
